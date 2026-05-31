@@ -1,0 +1,1015 @@
+[
+  {
+    "id": 1,
+    "make": "Maruti Suzuki",
+    "model": "Swift",
+    "variant": "ZXi Plus",
+    "price": 899000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "specs": {
+      "engine": "1.2L K-Series Dual Jet",
+      "displacement": "1197cc",
+      "power": "89 bhp",
+      "torque": "113 Nm",
+      "topSpeed": "170 km/h"
+    },
+    "seatingCapacity": 5,
+    "mileage": "23.76 kmpl",
+    "safetyRating": {
+      "globalNCAP": "3 Star",
+      "airbags": 6,
+      "abs": true,
+      "esp": true
+    },
+    "userReviews": {
+      "averageRating": 4.3,
+      "totalReviews": 4821,
+      "topComment": "Best hatchback for city driving. Fuel efficiency is outstanding."
+    },
+    "pros": [
+      "Excellent fuel efficiency",
+      "Peppy engine",
+      "Wide service network",
+      "Good resale value"
+    ],
+    "cons": [
+      "Rear space is tight",
+      "No diesel option",
+      "Boot space could be better"
+    ],
+    "bodyType": "Hatchback"
+  },
+  {
+    "id": 2,
+    "make": "Hyundai",
+    "model": "Grand i10 Nios",
+    "variant": "Sportz AMT",
+    "price": 765000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "specs": {
+      "engine": "1.2L Kappa",
+      "displacement": "1197cc",
+      "power": "83 bhp",
+      "torque": "114 Nm",
+      "topSpeed": "160 km/h"
+    },
+    "seatingCapacity": 5,
+    "mileage": "20.7 kmpl",
+    "safetyRating": {
+      "globalNCAP": "3 Star",
+      "airbags": 2,
+      "abs": true,
+      "esp": false
+    },
+    "userReviews": {
+      "averageRating": 4.1,
+      "totalReviews": 2983,
+      "topComment": "Comfortable ride, great for city commutes. AMT gearbox is smooth."
+    },
+    "pros": [
+      "Spacious interior for a hatchback",
+      "Smooth AMT gearbox",
+      "Feature-rich infotainment"
+    ],
+    "cons": [
+      "Average safety rating",
+      "Rear visibility limited",
+      "Suspension stiff on bad roads"
+    ],
+    "bodyType": "Hatchback"
+  },
+  {
+    "id": 3,
+    "make": "Tata",
+    "model": "Altroz",
+    "variant": "XZ+ Dark Edition",
+    "price": 1045000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "specs": {
+      "engine": "1.2L Revotron",
+      "displacement": "1199cc",
+      "power": "86 bhp",
+      "torque": "113 Nm",
+      "topSpeed": "165 km/h"
+    },
+    "seatingCapacity": 5,
+    "mileage": "19.05 kmpl",
+    "safetyRating": {
+      "globalNCAP": "5 Star",
+      "airbags": 6,
+      "abs": true,
+      "esp": true
+    },
+    "userReviews": {
+      "averageRating": 4.5,
+      "totalReviews": 3102,
+      "topComment": "5-star safety at this price is unbeatable. Build quality is solid."
+    },
+    "pros": [
+      "Best-in-class 5-star NCAP safety",
+      "Premium build quality",
+      "Spacious cabin"
+    ],
+    "cons": [
+      "No automatic option in petrol",
+      "Infotainment UI lags sometimes",
+      "Service centres fewer than Maruti"
+    ],
+    "bodyType": "Hatchback"
+  },
+  {
+    "id": 4,
+    "make": "Maruti Suzuki",
+    "model": "Baleno",
+    "variant": "Alpha CVT",
+    "price": 1005000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "specs": {
+      "engine": "1.2L DualJet",
+      "displacement": "1197cc",
+      "power": "89 bhp",
+      "torque": "113 Nm",
+      "topSpeed": "170 km/h"
+    },
+    "seatingCapacity": 5,
+    "mileage": "22.35 kmpl",
+    "safetyRating": {
+      "globalNCAP": "2 Star",
+      "airbags": 6,
+      "abs": true,
+      "esp": true
+    },
+    "userReviews": {
+      "averageRating": 4.2,
+      "totalReviews": 5600,
+      "topComment": "Smooth CVT, brilliant mileage. Best premium hatchback under 10L."
+    },
+    "pros": [
+      "Excellent mileage",
+      "Smooth CVT transmission",
+      "HUD display available",
+      "Great resale value"
+    ],
+    "cons": [
+      "Poor NCAP safety rating",
+      "Understeer at high speeds",
+      "Rear seat headroom average"
+    ],
+    "bodyType": "Hatchback"
+  },
+  {
+    "id": 5,
+    "make": "Maruti Suzuki",
+    "model": "Dzire",
+    "variant": "ZXi Plus AMT",
+    "price": 1050000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "specs": {
+      "engine": "1.2L DualJet",
+      "displacement": "1197cc",
+      "power": "89 bhp",
+      "torque": "113 Nm",
+      "topSpeed": "165 km/h"
+    },
+    "seatingCapacity": 5,
+    "mileage": "24.12 kmpl",
+    "safetyRating": {
+      "globalNCAP": "3 Star",
+      "airbags": 6,
+      "abs": true,
+      "esp": true
+    },
+    "userReviews": {
+      "averageRating": 4.4,
+      "totalReviews": 6200,
+      "topComment": "Best compact sedan in India. Fuel economy is class-leading."
+    },
+    "pros": [
+      "Highest mileage in segment",
+      "Spacious boot",
+      "Excellent resale value",
+      "Smooth AMT"
+    ],
+    "cons": [
+      "Dated interior design",
+      "No turbo petrol option",
+      "Rear suspension can be bouncy"
+    ],
+    "bodyType": "Sedan"
+  },
+  {
+    "id": 6,
+    "make": "Honda",
+    "model": "Amaze",
+    "variant": "V CVT",
+    "price": 1085000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "specs": {
+      "engine": "1.2L i-VTEC",
+      "displacement": "1199cc",
+      "power": "89 bhp",
+      "torque": "110 Nm",
+      "topSpeed": "168 km/h"
+    },
+    "seatingCapacity": 5,
+    "mileage": "18.6 kmpl",
+    "safetyRating": {
+      "globalNCAP": "4 Star",
+      "airbags": 2,
+      "abs": true,
+      "esp": false
+    },
+    "userReviews": {
+      "averageRating": 4.0,
+      "totalReviews": 2741,
+      "topComment": "Honda reliability at compact sedan price. Smooth CVT and comfy ride."
+    },
+    "pros": [
+      "Honda reliability",
+      "Smooth CVT",
+      "Comfortable rear seat",
+      "Good NVH levels"
+    ],
+    "cons": [
+      "Only 2 airbags in this variant",
+      "Lower mileage than competition",
+      "Boot lid opens manually"
+    ],
+    "bodyType": "Sedan"
+  },
+  {
+    "id": 7,
+    "make": "Hyundai",
+    "model": "Venue",
+    "variant": "SX(O) Turbo DCT",
+    "price": 1425000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "specs": {
+      "engine": "1.0L Turbo GDi",
+      "displacement": "998cc",
+      "power": "118 bhp",
+      "torque": "172 Nm",
+      "topSpeed": "185 km/h"
+    },
+    "seatingCapacity": 5,
+    "mileage": "17.53 kmpl",
+    "safetyRating": {
+      "globalNCAP": "3 Star",
+      "airbags": 6,
+      "abs": true,
+      "esp": true
+    },
+    "userReviews": {
+      "averageRating": 4.3,
+      "totalReviews": 4105,
+      "topComment": "Punchy turbo engine, great features, connected car tech is a highlight."
+    },
+    "pros": [
+      "Punchy turbo petrol engine",
+      "Feature-loaded",
+      "Connected car tech (BlueLink)",
+      "Sporty design"
+    ],
+    "cons": [
+      "Average safety rating",
+      "Rear seat space limited",
+      "DCT can be jerky in city traffic"
+    ],
+    "bodyType": "SUV"
+  },
+  {
+    "id": 8,
+    "make": "Maruti Suzuki",
+    "model": "Brezza",
+    "variant": "ZXi Plus AT",
+    "price": 1499000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "specs": {
+      "engine": "1.5L K15C Smart Hybrid",
+      "displacement": "1462cc",
+      "power": "103 bhp",
+      "torque": "137 Nm",
+      "topSpeed": "175 km/h"
+    },
+    "seatingCapacity": 5,
+    "mileage": "19.8 kmpl",
+    "safetyRating": {
+      "globalNCAP": "5 Star",
+      "airbags": 6,
+      "abs": true,
+      "esp": true
+    },
+    "userReviews": {
+      "averageRating": 4.4,
+      "totalReviews": 5350,
+      "topComment": "5-star safety, smart hybrid tech, and Maruti reliability. Best value SUV."
+    },
+    "pros": [
+      "5-star NCAP safety",
+      "Mild hybrid technology",
+      "Excellent fuel efficiency",
+      "Large touchscreen HUD"
+    ],
+    "cons": [
+      "No 4WD option",
+      "No diesel offering",
+      "Interior quality could be better"
+    ],
+    "bodyType": "SUV"
+  },
+  {
+    "id": 9,
+    "make": "Tata",
+    "model": "Nexon",
+    "variant": "Creative Plus Dark AT",
+    "price": 1625000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "specs": {
+      "engine": "1.2L Turbotron",
+      "displacement": "1199cc",
+      "power": "120 bhp",
+      "torque": "170 Nm",
+      "topSpeed": "180 km/h"
+    },
+    "seatingCapacity": 5,
+    "mileage": "17.04 kmpl",
+    "safetyRating": {
+      "globalNCAP": "5 Star",
+      "airbags": 6,
+      "abs": true,
+      "esp": true
+    },
+    "userReviews": {
+      "averageRating": 4.5,
+      "totalReviews": 7200,
+      "topComment": "5-star safety, bold design, and turbo power. Best compact SUV in India."
+    },
+    "pros": [
+      "5-star Global NCAP",
+      "Strong turbo engine",
+      "Excellent build quality",
+      "Premium cabin feel"
+    ],
+    "cons": [
+      "Tata after-sales mixed reviews",
+      "Fuel economy could be better",
+      "Rear AC vents only in top variants"
+    ],
+    "bodyType": "SUV"
+  },
+  {
+    "id": 10,
+    "make": "Tata",
+    "model": "Nexon EV",
+    "variant": "Empowered+",
+    "price": 1999000,
+    "fuelType": "Electric",
+    "transmission": "Automatic",
+    "specs": {
+      "motor": "Permanent Magnet Synchronous",
+      "batteryCapacity": "40.5 kWh",
+      "power": "143 bhp",
+      "torque": "215 Nm",
+      "topSpeed": "150 km/h"
+    },
+    "seatingCapacity": 5,
+    "mileage": "465 km range (ARAI)",
+    "safetyRating": {
+      "globalNCAP": "5 Star",
+      "airbags": 6,
+      "abs": true,
+      "esp": true
+    },
+    "userReviews": {
+      "averageRating": 4.4,
+      "totalReviews": 3850,
+      "topComment": "Running cost is almost nothing. Peppy performance and great safety."
+    },
+    "pros": [
+      "Low running cost",
+      "5-star safety",
+      "Instant torque delivery",
+      "Government incentives available"
+    ],
+    "cons": [
+      "Charging infrastructure still developing",
+      "Higher upfront cost",
+      "Long charging time on AC"
+    ],
+    "bodyType": "SUV"
+  },
+  {
+    "id": 11,
+    "make": "Kia",
+    "model": "Sonet",
+    "variant": "HTX Plus Turbo iMT",
+    "price": 1365000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "specs": {
+      "engine": "1.0L T-GDi Turbo",
+      "displacement": "998cc",
+      "power": "118 bhp",
+      "torque": "172 Nm",
+      "topSpeed": "185 km/h"
+    },
+    "seatingCapacity": 5,
+    "mileage": "18.2 kmpl",
+    "safetyRating": {
+      "globalNCAP": "3 Star",
+      "airbags": 6,
+      "abs": true,
+      "esp": true
+    },
+    "userReviews": {
+      "averageRating": 4.2,
+      "totalReviews": 3280,
+      "topComment": "Kia interior quality is best in segment. Turbo iMT is a joy to drive."
+    },
+    "pros": [
+      "Segment-best interior quality",
+      "Punchy turbo engine",
+      "Feature-rich (sunroof, Bose audio)"
+    ],
+    "cons": [
+      "Ride quality on bad roads is stiff",
+      "Average NCAP safety",
+      "Slightly expensive for the segment"
+    ],
+    "bodyType": "SUV"
+  },
+  {
+    "id": 12,
+    "make": "Hyundai",
+    "model": "Creta",
+    "variant": "SX(O) Turbo DCT",
+    "price": 2099000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "specs": {
+      "engine": "1.5L Turbo GDi",
+      "displacement": "1482cc",
+      "power": "158 bhp",
+      "torque": "253 Nm",
+      "topSpeed": "200 km/h"
+    },
+    "seatingCapacity": 5,
+    "mileage": "16.8 kmpl",
+    "safetyRating": {
+      "globalNCAP": "3 Star",
+      "airbags": 6,
+      "abs": true,
+      "esp": true
+    },
+    "userReviews": {
+      "averageRating": 4.4,
+      "totalReviews": 9100,
+      "topComment": "King of midsize SUVs. Powerful engine, premium cabin, amazing features."
+    },
+    "pros": [
+      "Powerful turbo engine",
+      "Premium panoramic sunroof",
+      "ADAS features",
+      "Excellent brand reputation"
+    ],
+    "cons": [
+      "Only 3-star NCAP",
+      "Expensive top variant",
+      "Rear seat not ideal for 3 adults"
+    ],
+    "bodyType": "SUV"
+  },
+  {
+    "id": 13,
+    "make": "Kia",
+    "model": "Seltos",
+    "variant": "HTX Plus 1.5 DCT",
+    "price": 2010000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "specs": {
+      "engine": "1.5L Turbo GDi",
+      "displacement": "1482cc",
+      "power": "158 bhp",
+      "torque": "253 Nm",
+      "topSpeed": "198 km/h"
+    },
+    "seatingCapacity": 5,
+    "mileage": "16.5 kmpl",
+    "safetyRating": {
+      "globalNCAP": "3 Star",
+      "airbags": 6,
+      "abs": true,
+      "esp": true
+    },
+    "userReviews": {
+      "averageRating": 4.3,
+      "totalReviews": 6540,
+      "topComment": "Sporty looks, powerful engine and connected tech. One of the best SUVs."
+    },
+    "pros": [
+      "Sporty design",
+      "Powerful powertrain",
+      "Panoramic display",
+      "ADAS driver assistance"
+    ],
+    "cons": ["Fuel economy below par", "Only 3-star NCAP", "3rd row absent"],
+    "bodyType": "SUV"
+  },
+  {
+    "id": 14,
+    "make": "Tata",
+    "model": "Harrier",
+    "variant": "Accomplished+ Dark AT",
+    "price": 2599000,
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "specs": {
+      "engine": "2.0L Kryotec Diesel",
+      "displacement": "1956cc",
+      "power": "168 bhp",
+      "torque": "350 Nm",
+      "topSpeed": "193 km/h"
+    },
+    "seatingCapacity": 5,
+    "mileage": "16.35 kmpl",
+    "safetyRating": {
+      "globalNCAP": "5 Star",
+      "airbags": 6,
+      "abs": true,
+      "esp": true
+    },
+    "userReviews": {
+      "averageRating": 4.4,
+      "totalReviews": 4720,
+      "topComment": "Massive presence on road. Diesel torque is phenomenal. 5-star safety."
+    },
+    "pros": [
+      "5-star NCAP safety",
+      "Massive diesel torque",
+      "Commanding road presence",
+      "ADAS Level 2"
+    ],
+    "cons": [
+      "No petrol option",
+      "No 7-seater option (Safari for that)",
+      "Occasional software glitches reported"
+    ],
+    "bodyType": "SUV"
+  },
+  {
+    "id": 15,
+    "make": "MG",
+    "model": "Hector",
+    "variant": "Sharp Pro Turbo MT",
+    "price": 2250000,
+    "fuelType": "Petrol",
+    "transmission": "Manual",
+    "specs": {
+      "engine": "1.5L Turbo",
+      "displacement": "1451cc",
+      "power": "141 bhp",
+      "torque": "250 Nm",
+      "topSpeed": "185 km/h"
+    },
+    "seatingCapacity": 5,
+    "mileage": "15.81 kmpl",
+    "safetyRating": {
+      "globalNCAP": "5 Star",
+      "airbags": 6,
+      "abs": true,
+      "esp": true
+    },
+    "userReviews": {
+      "averageRating": 4.2,
+      "totalReviews": 3960,
+      "topComment": "Huge touchscreen, feature-loaded cabin, great value for money."
+    },
+    "pros": [
+      "35.56 cm touchscreen",
+      "Feature-packed cabin",
+      "5-star NCAP safety",
+      "Spacious interior"
+    ],
+    "cons": [
+      "After-sales service network smaller",
+      "Infotainment can lag",
+      "Fuel economy average"
+    ],
+    "bodyType": "SUV"
+  },
+  {
+    "id": 16,
+    "make": "Toyota",
+    "model": "Innova Hycross",
+    "variant": "ZX Hybrid",
+    "price": 3299000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "specs": {
+      "engine": "2.0L TNGA Strong Hybrid",
+      "displacement": "1987cc",
+      "power": "186 bhp (system)",
+      "torque": "206 Nm",
+      "topSpeed": "180 km/h"
+    },
+    "seatingCapacity": 7,
+    "mileage": "21.1 kmpl",
+    "safetyRating": {
+      "globalNCAP": "N/A",
+      "airbags": 7,
+      "abs": true,
+      "esp": true
+    },
+    "userReviews": {
+      "averageRating": 4.6,
+      "totalReviews": 5100,
+      "topComment": "Best MPV in India. Hybrid fuel economy with 7-seater comfort is unbeatable."
+    },
+    "pros": [
+      "Exceptional hybrid fuel economy",
+      "7-seater comfort",
+      "Toyota reliability",
+      "Premium cabin quality"
+    ],
+    "cons": [
+      "Very expensive",
+      "No diesel option",
+      "3rd row seat could be roomier"
+    ],
+    "bodyType": "MPV"
+  },
+  {
+    "id": 17,
+    "make": "Mahindra",
+    "model": "XUV 3XO",
+    "variant": "AX7 L Turbo AT",
+    "price": 1699000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "specs": {
+      "engine": "1.2L mStallion TurboSport",
+      "displacement": "1197cc",
+      "power": "129 bhp",
+      "torque": "230 Nm",
+      "topSpeed": "185 km/h"
+    },
+    "seatingCapacity": 5,
+    "mileage": "17.96 kmpl",
+    "safetyRating": {
+      "globalNCAP": "5 Star",
+      "airbags": 6,
+      "abs": true,
+      "esp": true
+    },
+    "userReviews": {
+      "averageRating": 4.3,
+      "totalReviews": 2900,
+      "topComment": "Best-in-class ADAS, 5-star safety and a muscular engine. Great package."
+    },
+    "pros": [
+      "5-star NCAP safety",
+      "Level 2 ADAS",
+      "High torque for segment",
+      "Dual 26-cm screens"
+    ],
+    "cons": [
+      "Brand after-sales inconsistency",
+      "Slightly cramped third row (no 3rd row here)",
+      "Rear seat width average"
+    ],
+    "bodyType": "SUV"
+  },
+  {
+    "id": 18,
+    "make": "Hyundai",
+    "model": "Exter",
+    "variant": "SX(O) AMT",
+    "price": 995000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "specs": {
+      "engine": "1.2L Kappa",
+      "displacement": "1197cc",
+      "power": "83 bhp",
+      "torque": "114 Nm",
+      "topSpeed": "162 km/h"
+    },
+    "seatingCapacity": 5,
+    "mileage": "19.4 kmpl",
+    "safetyRating": {
+      "globalNCAP": "3 Star",
+      "airbags": 6,
+      "abs": true,
+      "esp": false
+    },
+    "userReviews": {
+      "averageRating": 4.1,
+      "totalReviews": 2100,
+      "topComment": "Cute micro-SUV with lots of features. Great for city driving."
+    },
+    "pros": [
+      "Micro-SUV styling",
+      "Feature-rich for price",
+      "Connected car features"
+    ],
+    "cons": ["Small engine", "Rear space tight", "Only 3-star NCAP"],
+    "bodyType": "SUV"
+  },
+  {
+    "id": 19,
+    "make": "Skoda",
+    "model": "Kushaq",
+    "variant": "Monte Carlo TSI AT",
+    "price": 2149000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "specs": {
+      "engine": "1.5L TSI EVO",
+      "displacement": "1498cc",
+      "power": "148 bhp",
+      "torque": "250 Nm",
+      "topSpeed": "195 km/h"
+    },
+    "seatingCapacity": 5,
+    "mileage": "16.5 kmpl",
+    "safetyRating": {
+      "globalNCAP": "5 Star",
+      "airbags": 6,
+      "abs": true,
+      "esp": true
+    },
+    "userReviews": {
+      "averageRating": 4.3,
+      "totalReviews": 2540,
+      "topComment": "European build quality and driving dynamics in an Indian price bracket."
+    },
+    "pros": [
+      "European build and driving quality",
+      "5-star safety",
+      "Refined 1.5 TSI engine",
+      "Premium interiors"
+    ],
+    "cons": [
+      "Skoda service expensive",
+      "No sunroof in some variants",
+      "Boot space average"
+    ],
+    "bodyType": "SUV"
+  },
+  {
+    "id": 20,
+    "make": "Volkswagen",
+    "model": "Taigun",
+    "variant": "GT TSI DSG",
+    "price": 2299000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "specs": {
+      "engine": "1.5L TSI EVO",
+      "displacement": "1498cc",
+      "power": "148 bhp",
+      "torque": "250 Nm",
+      "topSpeed": "195 km/h"
+    },
+    "seatingCapacity": 5,
+    "mileage": "17.3 kmpl",
+    "safetyRating": {
+      "globalNCAP": "5 Star",
+      "airbags": 6,
+      "abs": true,
+      "esp": true
+    },
+    "userReviews": {
+      "averageRating": 4.3,
+      "totalReviews": 2210,
+      "topComment": "Sporty GT variant is a hot hatch feeling in SUV body. Excellent handler."
+    },
+    "pros": [
+      "5-star NCAP",
+      "Best driving dynamics in class",
+      "Premium VW feel",
+      "Fast DSG gearbox"
+    ],
+    "cons": [
+      "Expensive service cost",
+      "No diesel option",
+      "Rear headroom slightly limited"
+    ],
+    "bodyType": "SUV"
+  },
+  {
+    "id": 21,
+    "make": "Toyota",
+    "model": "Urban Cruiser Hyryder",
+    "variant": "V Hybrid E-CVT",
+    "price": 2199000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "specs": {
+      "engine": "1.5L Strong Hybrid",
+      "displacement": "1490cc",
+      "power": "115 bhp (system)",
+      "torque": "141 Nm",
+      "topSpeed": "175 km/h"
+    },
+    "seatingCapacity": 5,
+    "mileage": "27.97 kmpl",
+    "safetyRating": {
+      "globalNCAP": "5 Star",
+      "airbags": 6,
+      "abs": true,
+      "esp": true
+    },
+    "userReviews": {
+      "averageRating": 4.4,
+      "totalReviews": 3400,
+      "topComment": "Phenomenal hybrid mileage and 5-star safety. Best mid-size SUV for efficiency."
+    },
+    "pros": [
+      "Best-in-class mileage via strong hybrid",
+      "5-star NCAP",
+      "Toyota reliability",
+      "EV mode capability"
+    ],
+    "cons": [
+      "Underpowered for highway overtakes",
+      "Basic infotainment vs rivals",
+      "Premium price for hybrid"
+    ],
+    "bodyType": "SUV"
+  },
+  {
+    "id": 22,
+    "make": "Honda",
+    "model": "City",
+    "variant": "ZX CVT",
+    "price": 1699000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "specs": {
+      "engine": "1.5L VTEC",
+      "displacement": "1498cc",
+      "power": "119 bhp",
+      "torque": "145 Nm",
+      "topSpeed": "190 km/h"
+    },
+    "seatingCapacity": 5,
+    "mileage": "18.4 kmpl",
+    "safetyRating": {
+      "globalNCAP": "4 Star",
+      "airbags": 6,
+      "abs": true,
+      "esp": true
+    },
+    "userReviews": {
+      "averageRating": 4.5,
+      "totalReviews": 7800,
+      "topComment": "Timeless sedan. Honda reliability + smooth CVT + premium feel inside."
+    },
+    "pros": [
+      "Segment-leading Honda reliability",
+      "Spacious cabin for 5",
+      "Refined CVT gearbox",
+      "Strong highway performer"
+    ],
+    "cons": [
+      "No diesel option now",
+      "Rear sunblind missing",
+      "Slightly dated dashboard design"
+    ],
+    "bodyType": "Sedan"
+  },
+  {
+    "id": 23,
+    "make": "Maruti Suzuki",
+    "model": "Grand Vitara",
+    "variant": "Alpha+ Strong Hybrid",
+    "price": 2349000,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "specs": {
+      "engine": "1.5L Intelligent Electric Hybrid",
+      "displacement": "1490cc",
+      "power": "115 bhp (system)",
+      "torque": "141 Nm",
+      "topSpeed": "175 km/h"
+    },
+    "seatingCapacity": 5,
+    "mileage": "27.97 kmpl",
+    "safetyRating": {
+      "globalNCAP": "5 Star",
+      "airbags": 6,
+      "abs": true,
+      "esp": true
+    },
+    "userReviews": {
+      "averageRating": 4.5,
+      "totalReviews": 4600,
+      "topComment": "Best mileage SUV in India with strong hybrid. Brilliant for long drives."
+    },
+    "pros": [
+      "Best-in-class hybrid efficiency",
+      "5-star NCAP",
+      "Panoramic sunroof",
+      "Maruti wide service network"
+    ],
+    "cons": [
+      "Expensive for Maruti badge",
+      "Hybrid system adds weight",
+      "No diesel variant"
+    ],
+    "bodyType": "SUV"
+  },
+  {
+    "id": 24,
+    "make": "Mahindra",
+    "model": "Scorpio-N",
+    "variant": "Z8 L Diesel AT 4WD",
+    "price": 2999000,
+    "fuelType": "Diesel",
+    "transmission": "Automatic",
+    "specs": {
+      "engine": "2.2L mHawk Diesel",
+      "displacement": "2184cc",
+      "power": "172 bhp",
+      "torque": "400 Nm",
+      "topSpeed": "190 km/h"
+    },
+    "seatingCapacity": 7,
+    "mileage": "15.2 kmpl",
+    "safetyRating": {
+      "globalNCAP": "5 Star",
+      "airbags": 6,
+      "abs": true,
+      "esp": true
+    },
+    "userReviews": {
+      "averageRating": 4.5,
+      "totalReviews": 6300,
+      "topComment": "Big daddy of Indian SUVs. Brutal diesel torque, 4WD, 5-star safety. Legend."
+    },
+    "pros": [
+      "400 Nm torque — best in class",
+      "4WD capable",
+      "5-star NCAP safety",
+      "7-seater with commanding presence"
+    ],
+    "cons": [
+      "Ride can be rough off-highway",
+      "Fuel economy low with 4WD",
+      "Large turning radius"
+    ],
+    "bodyType": "SUV"
+  },
+  {
+    "id": 25,
+    "make": "MG",
+    "model": "ZS EV",
+    "variant": "Excite Plus",
+    "price": 2499000,
+    "fuelType": "Electric",
+    "transmission": "Automatic",
+    "specs": {
+      "motor": "Permanent Magnet Synchronous",
+      "batteryCapacity": "50.3 kWh",
+      "power": "176 bhp",
+      "torque": "280 Nm",
+      "topSpeed": "175 km/h"
+    },
+    "seatingCapacity": 5,
+    "mileage": "461 km range (ARAI)",
+    "safetyRating": {
+      "globalNCAP": "5 Star",
+      "airbags": 6,
+      "abs": true,
+      "esp": true
+    },
+    "userReviews": {
+      "averageRating": 4.2,
+      "totalReviews": 2050,
+      "topComment": "Smooth electric ride, large battery range, great EV for Indian highways."
+    },
+    "pros": [
+      "461 km claimed range",
+      "5-star safety",
+      "Fast charging (DC 50kW capable)",
+      "Spacious cabin"
+    ],
+    "cons": [
+      "MG service network smaller",
+      "Heavy vehicle kerb weight",
+      "Real-world range ~360 km"
+    ],
+    "bodyType": "SUV"
+  }
+]
