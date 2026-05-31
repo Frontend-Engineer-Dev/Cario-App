@@ -22,7 +22,7 @@ export async function sendChatMessage(
   message: string,
   history: ChatMessage[],
 ): Promise<ChatResponse> {
-  const response = await fetch("http://localhost:3000/api/chat", {
+  const response = await fetch("https://api-cario-app.onrender.com", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
